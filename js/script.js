@@ -12,7 +12,7 @@ for (i = 1; i < 4; i++) {
 
 let amount = +prompt('Enter count');
 let str = ''; 
-for (let i = 0; i < amount; i++) {
+for (i = 0; i < amount; i++) {
 	str += '#.';
 }
 console.log(str);
